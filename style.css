@@ -44,18 +44,15 @@ html,body{
 .elem{
    
     display: flex;
-    padding: 25px;
-    gap: 10px;
+    gap: 5px;
     
 }
 h4{
     padding-top: 10px;
 }
 .box{
-    padding-left:10px ;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    width: 60px;
+    padding: 5px;
+    width: 40px;
     background-color: rgb(255, 255, 255);
     border-radius: 5px;
     color: rgb(0, 0, 0);
